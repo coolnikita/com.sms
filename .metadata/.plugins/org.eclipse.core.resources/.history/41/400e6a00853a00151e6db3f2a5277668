@@ -1,0 +1,43 @@
+package com.sms.dao.stroke;
+
+import java.util.List;
+
+import org.hibernate.SessionFactory;
+
+import com.sms.model.StrokeInfo;
+
+public class StrokeInfoDAOImpl implements StrokeInfoDAO {
+
+	private SessionFactory sessionFactory;
+	
+	@Override
+	public void addStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public StrokeInfo getStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<StrokeInfo> getAllStrokeInfo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,39 @@
+package com.sms.service.strokes;
+
+import java.util.List;
+
+import com.sms.model.StrokeInfo;
+
+public class StrokeInfoServiceImpl implements StrokeInfoService {
+
+	@Override
+	public void addStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public StrokeInfo getStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<StrokeInfo> getAllStrokeInfo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

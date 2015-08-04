@@ -1,0 +1,6 @@
+package com.sms.dao.ageGroup;
+
+@Repository
+public class AgeGroupDAOImpl {
+
+}

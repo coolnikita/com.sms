@@ -1,0 +1,6 @@
+package com.sms.controller;
+
+@Controller
+public class AgeGroupController {
+
+}

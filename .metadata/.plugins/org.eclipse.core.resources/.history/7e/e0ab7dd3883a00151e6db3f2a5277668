@@ -1,0 +1,42 @@
+package com.sms.dao.ageGroup;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.sms.model.AgeGroup;
+
+@Repository
+public class AgeGroupDAOImpl implements AgeGroupDAO {
+
+	@Override
+	public void addAgeGroup(AgeGroup info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateAgeGroup(AgeGroup info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public AgeGroup getAgeGroup(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteAgeGroup(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<AgeGroup> getAllAgeGroups() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

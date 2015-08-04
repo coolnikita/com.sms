@@ -1,0 +1,42 @@
+package com.sms.service.ageGroups;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.sms.dao.ageGroup.AgeGroupDAO;
+import com.sms.model.AgeGroup;
+
+@Service
+@Transactional
+public class AgeGroupServiceImpl implements AgeGroupService {
+
+	AgeGroupDAO ageDao ;
+	public void addAgeGroup(AgeGroup info) {
+		
+	}
+
+	public void updateAgeGroup(AgeGroup info) {
+		
+	}
+
+	@Override
+	public AgeGroup getAgeGroup(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteAgeGroup(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<AgeGroup> getAllAgeGroups() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,42 @@
+package com.sms.service.strokes;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.sms.dao.stroke.StrokeInfoDAO;
+import com.sms.model.StrokeInfo;
+
+@Service
+@Transactional
+public class StrokeInfoServiceImpl implements StrokeInfoService {
+
+	private StrokeInfoDAO infoDao;
+	
+	public void addStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void updateStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public StrokeInfo getStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void deleteStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public List<StrokeInfo> getAllStrokeInfo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

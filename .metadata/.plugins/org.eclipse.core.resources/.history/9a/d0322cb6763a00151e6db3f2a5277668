@@ -1,0 +1,43 @@
+package com.sms.model;
+
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+public class AgeGroup {
+	@Id
+	@GeneratedValue
+	private Integer id;
+	private Integer upperLimit;
+	private Integer lowerLimit;
+	private String groupName;
+	
+	
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	public Integer getUpperLimit() {
+		return upperLimit;
+	}
+	public void setUpperLimit(Integer upperLimit) {
+		this.upperLimit = upperLimit;
+	}
+	public Integer getLowerLimit() {
+		return lowerLimit;
+	}
+	public void setLowerLimit(Integer lowerLimit) {
+		this.lowerLimit = lowerLimit;
+	}
+	public String getGroupName() {
+		return groupName;
+	}
+	public void setGroupName(String groupName) {
+		this.groupName = groupName;
+	}
+	
+	
+	
+	
+}

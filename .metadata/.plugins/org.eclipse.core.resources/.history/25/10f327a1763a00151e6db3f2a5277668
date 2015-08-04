@@ -1,0 +1,12 @@
+package com.sms.model;
+
+public class AgeGroup {
+	
+	private Integer id;
+	private Integer upperLimit;
+	private Integer lowerLimit;
+	private String groupName;
+	
+	
+	
+}

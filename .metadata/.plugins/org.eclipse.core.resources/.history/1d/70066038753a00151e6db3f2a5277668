@@ -1,0 +1,6 @@
+package com.sms.model;
+
+public class Event {
+	private Integer id;
+	private String name;
+}

@@ -1,0 +1,47 @@
+package com.sms.dao.ageGroup;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.stereotype.Repository;
+
+import com.sms.model.AgeGroup;
+
+@Repository
+public class AgeGroupDAOImpl implements AgeGroupDAO {
+
+	private SessionFactory sessionFactory;
+	
+	public Session getCurrentSession() {
+		return sessionFactory.getCurrentSession();
+	}
+	
+	public void addAgeGroup(AgeGroup group) {
+		getCurrentSession().save(group);
+	}
+
+
+	public void updateAgeGroup(AgeGroup info) {
+		
+	}
+
+	@Override
+	public AgeGroup getAgeGroup(int id) {
+		
+		return null;
+	}
+
+	@Override
+	public void deleteAgeGroup(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<AgeGroup> getAllAgeGroups() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

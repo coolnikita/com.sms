@@ -1,0 +1,44 @@
+package com.sms.dao.stroke;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.stereotype.Repository;
+
+import com.sms.model.StrokeInfo;
+
+@Repository
+public class StrokeInfoDAOImpl implements StrokeInfoDAO {
+
+	private SessionFactory sessionFactory;
+	
+	public Session getCurrentSession() {
+		return sessionFactory.getCurrentSession();
+	}
+
+	public void addStrokeInfo(StrokeInfo info) {
+		getCurrentSession().save(info);		
+	}
+
+	public void updateStrokeInfo(StrokeInfo info) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public StrokeInfo getStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void deleteStrokeInfo(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public List<StrokeInfo> getAllStrokeInfo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

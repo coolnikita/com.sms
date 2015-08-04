@@ -1,0 +1,6 @@
+package com.sms.model;
+
+public class AgeGroup {
+	private Integer id;
+	
+}

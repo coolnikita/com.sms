@@ -1,0 +1,39 @@
+package com.sms.model;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="event")
+public class Event {
+	
+	@Id
+	@GeneratedValue
+	private Integer strokeId;	
+	private String strokeName;
+	private Integer distanceInMts;
+	
+	
+	public Integer getStrokeId() {
+		return strokeId;
+	}
+	public void setStrokeId(Integer strokeId) {
+		this.strokeId = strokeId;
+	}
+	public String getStrokeName() {
+		return strokeName;
+	}
+	public void setStrokeName(String strokeName) {
+		this.strokeName = strokeName;
+	}
+	public Integer getDistanceInMts() {
+		return distanceInMts;
+	}
+	public void setDistanceInMts(Integer distanceInMts) {
+		this.distanceInMts = distanceInMts;
+	}
+	
+	
+}

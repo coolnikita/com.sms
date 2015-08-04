@@ -1,0 +1,5 @@
+package com.sms.dao.stroke;
+
+public class StrokeInfoDAOImpl implements StrokeInfoDAO {
+
+}
