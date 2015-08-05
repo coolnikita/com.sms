@@ -2,6 +2,7 @@ package com.sms.service.strokes;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -12,6 +13,7 @@ import com.sms.model.StrokeInfo;
 @Transactional
 public class StrokeInfoServiceImpl implements StrokeInfoService {
 
+	@Autowired
 	private StrokeInfoDAO infoDao;
 	
 	public void addStrokeInfo(StrokeInfo info) {

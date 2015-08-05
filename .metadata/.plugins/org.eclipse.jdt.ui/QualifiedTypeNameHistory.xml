@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.sms.service.strokes.StrokeInfoService"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="com.sms.model.StrokeInfo"/>
+<fullyQualifiedTypeName name="com.sms.dao.stroke.StrokeInfoDAO"/>
+<fullyQualifiedTypeName name="com.sms.model.AgeGroup"/>
+<fullyQualifiedTypeName name="com.sms.dao.ageGroup.AgeGroupDAO"/>
+<fullyQualifiedTypeName name="com.sms.service.ageGroups.AgeGroupService"/>
+</qualifiedTypeNameHistroy>

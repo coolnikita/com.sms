@@ -808,3 +808,103 @@
 2015-08-04 16:39:41,363 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-08-04 16:39:41,368 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-04 16:39:41,369 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 10:28:18,907 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 10:28:18,967 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 10:28:18,978 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 10:28:18,979 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:22:22,057 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:22:22,066 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:22:22,070 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:22:22,071 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:38:14,149 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:sms:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:38:16,911 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:16,912 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-05 11:38:16,916 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:16,917 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:38:16,917 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SMS
+2015-08-05 11:38:16,919 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SMS
+2015-08-05 11:38:16,927 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:23,958 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:SMS:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:38:25,068 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:25,069 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-05 11:38:25,071 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:25,073 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:38:25,073 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SMS
+2015-08-05 11:38:25,073 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SMS
+2015-08-05 11:38:25,083 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:37,264 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\nikitab\SMS\SMS
+2015-08-05 11:38:37,265 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-08-05 11:38:40,429 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:40,431 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:38:40,441 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:40,442 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:38:48,784 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SMS
+2015-08-05 11:38:49,276 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:49,278 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:38:49,284 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:38:49,285 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:40:26,165 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:SMS:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:40:27,535 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:40:27,537 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-05 11:40:27,540 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:40:27,541 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:40:27,541 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SMS
+2015-08-05 11:40:27,541 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SMS
+2015-08-05 11:40:27,557 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:16,507 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:SMS:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:41:17,278 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:17,279 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-05 11:41:17,281 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:17,282 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:41:17,282 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SMS
+2015-08-05 11:41:17,282 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SMS
+2015-08-05 11:41:17,289 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:24,660 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-05 11:41:24,745 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:SMS:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:41:25,612 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SMS/src/main/java
+2015-08-05 11:41:25,613 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /SMS/src/main/resources overlaps with sources folder /SMS/src/main/resources
+2015-08-05 11:41:25,614 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SMS/src/test/java
+2015-08-05 11:41:27,552 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:SMS:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:41:28,402 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SMS
+2015-08-05 11:41:28,410 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-08-05 11:41:29,270 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:29,272 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:41:29,277 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:29,278 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:41:47,408 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\nikitab\SMS\SMS
+2015-08-05 11:41:47,408 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-08-05 11:41:49,787 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:49,790 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:41:49,798 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:41:49,800 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:45:46,190 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sms:SMS:0.0.1-SNAPSHOT @ C:\Users\nikitab\SMS\SMS\pom.xml.
+2015-08-05 11:45:47,389 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:45:47,390 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-05 11:45:47,392 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:45:47,393 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:45:47,394 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SMS
+2015-08-05 11:45:47,394 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SMS
+2015-08-05 11:45:47,413 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:45:54,757 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\nikitab\SMS\SMS
+2015-08-05 11:45:54,757 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-08-05 11:45:57,365 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:45:57,367 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:45:57,372 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:45:57,373 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:46:06,926 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SMS
+2015-08-05 11:46:07,424 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:46:07,426 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:46:07,431 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:46:07,432 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:53:47,821 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:53:47,823 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:53:47,826 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:53:47,827 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:53:57,866 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:53:57,868 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:53:57,872 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:53:57,873 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
+2015-08-05 11:54:03,186 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:54:03,188 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-05 11:54:03,192 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-05 11:54:03,193 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nikitab\SMS\SMS\src\test\resources
